@@ -83,7 +83,7 @@ export default function Home() {
             className="text-3xl sm:text-2xl font-semibold 
   text-gray-300 tracking-tight select-none font-[Arial]"
           >
-            Medyanes CRUD Application
+            Medyanes CRUD Application v1
           </h1>
         </div>
       </header>
